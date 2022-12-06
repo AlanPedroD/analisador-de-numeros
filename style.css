@@ -4,15 +4,21 @@
     box-sizing: border-box;
 }
 
+body{
+   background-color: #06577C;
+}
+
 main{
     max-width: 1240px;
     margin: auto;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     font-weight: bold;
     padding: 5px;
 }
 
 header{
+    color: #CEE7C9;
+    /* color: #7988B6; */
     text-align: center;
     padding: 10px;
 }
@@ -31,7 +37,7 @@ section{
 }
 
 footer{
-    color: #fff;
+    color: #cee7c9ce;
     text-align: center;
     font-style: italic;
     padding: 10px;
